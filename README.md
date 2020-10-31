@@ -1,11 +1,9 @@
 # PRAW-Submission-to-CSV-and-Image-Downloader
-Uses PRAW api to convert reddit submissions from a subreddit to a csv file and downloads all top images from the same subreddit.
 
 # Reddit Submission Scraper
 
-Reddit Submission Scraper is a program to create a csv file with data from the top posts from a subreddit. Creates a new directory with the subreddit name and downloads images of top posts.
-
-
+Uses PRAW api to convert reddit submissions from a subreddit to a csv file and downloads all top images from the same subreddit.
+Reddit Submission Scraper is a program that uses the PRAW api to gather reddit submission data from a subreddit's top posts, export that data into a csv file, perform exploratory analysis and download the images associated with the submissions. Creates a new directory with the subreddit name and downloads images to the newly created directory.
 
 
 ## Installation
